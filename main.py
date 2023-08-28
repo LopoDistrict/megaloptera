@@ -36,5 +36,9 @@ print("""
 """)
 
 time.sleep(0.5)
-print("help for command/information")
+choice = input("Have you modified the api key (Y/N)?")
+if choice == "Y":
+  os.system("pyinstaller megaloptera.py")
+else:
+  print("go see this github")
 
