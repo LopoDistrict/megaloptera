@@ -4,7 +4,7 @@ Megaloptera is an efficient spyware made with python that get a tons of informat
 Is automate so you dont need to change it or to connect to anything, all information are regroup into a zip file and send into a dropbox.
 
 ## Disclaimer
-# I will not be held responsible for any misuse of magaloptera, I made it for educational purposes and will not be held responsible for any use that goes against the law and/or ethics.
+### I will not be held responsible for any misuse of magaloptera, I made it for educational purposes and will not be held responsible for any use that goes against the law and/or ethics.
 ## Features
 - Location
 - Auto-run
