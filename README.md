@@ -34,8 +34,8 @@ or click on auto-install-lib
 ## I am currently working on a new versions of megaloptera wich will be uploaded in few weeks (might be days if i dont sleep)
 ## features
 Megaloptera V2.0 will have the same features than the old one plus few ones:
-~~- clipboard~~ 
-~~- cookies/session hijacking~~ 
+- ~~clipboard~~ 
+- ~~cookies/session hijacking~~ 
 - more precise location
 - a POO program (wich is faster and make the code easier)
 - dropper for Antivirus bypass (a dropper is a program that is harmless cant be detected as a virus, then when executed it's downloading or building the virus in order to execute it)
