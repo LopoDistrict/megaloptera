@@ -1,0 +1,12 @@
+0.0.1 - Mise enplace projet
+0.0.2 - keylogger
+0.0.3 - webcam photo
+0.0.4 - screenshots
+0.0.5 -ajout d'une UI
+0.0.6 - redesign UI
+0.0.7 - ajout socket server
+0.0.8 - ip
+0.0.9 - rework keylogger
+0.1.0 - ajout de nouveau element ip
+0.1.1 - rework convertfile
+0.1.2 - ajout password google
