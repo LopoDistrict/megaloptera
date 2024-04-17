@@ -1,10 +1,10 @@
-# megaloptera V.1.2.3 (working on a new Versions more information down below)
+# megaloptera V.1.2.5 (working on a new Versions more information down below)
 ## Description
 Megaloptera is an efficient spyware made with python that get a tons of informationon a target (check the features) that is barely undetectable by antiviruses. 
 Is automate so you dont need to change it or to connect to anything, all information are regroup into a zip file and send into a dropbox.
 
 ## Disclaimer
-### I will not be held responsible for any misuse of magaloptera, I made it for educational purposes and will not be held responsible for any use that goes against the law and/or ethics.
+### I will not be held responsible for any misuse of megaloptera, I made it for educational purposes and will not be held responsible for any use that goes against the law and/or ethics.
 ## Features
 - Location
 - Auto-run
